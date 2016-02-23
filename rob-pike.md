@@ -7,11 +7,11 @@
 <br><br>
 從1980到2002年，羅勃·派克在貝爾實驗室的電腦研究中心開發Unix、Plan9、Inferno等作業系統。這個期間他讓Unix能用滑鼠（Blit），並且幫助網路世界使用不同的語言（UTF-8）。離開貝爾實驗室後他加入Google至今，研究分散式架構、數據挖掘、程式語言、協助工具。最近幾年則專注於領導Go語言的成長。參考<sup>[1][2][3][4]</sup>。
 ###Systems Software Research is Irrelevant
+### Late Night With David Letterman
 ###OSCON 2010: Rob Pike, "Public Static Void"
 ###Go at Google: Language Design in the Service of Software Engineering
-###Go proverbs
 ###不遭人忌是庸才，World class jack-ass，video回應<sup>[1]</sup>
-### Late Night With David Letterman
+###Go proverbs
 ###Renée French的藝術
 ##參考文獻
 1. [wiki - Rob Pike](https://en.wikipedia.org/wiki/Rob_Pike)
