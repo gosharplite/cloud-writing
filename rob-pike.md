@@ -9,6 +9,7 @@
 ###OSCON 2010: Rob Pike, "Public Static Void"
 ###Go at Google: Language Design in the Service of Software Engineering
 ###Go proverbs
-###不遭人忌是庸才，World class jack-ass，video回應
+###不遭人忌是庸才，World class jack-ass，video回應<sup>[1]</sup>
 ###Renée French的藝術
 ##參考文獻
+1. [GopherFest 2015: Rob Pike on the move from C to Go in the toolchain](https://www.youtube.com/watch?v=cF1zJYkBW4A#t=25m20s)
