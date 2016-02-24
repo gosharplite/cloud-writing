@@ -18,8 +18,9 @@ Go語言從2007年末開始構思，到2012年3月釋出1.0板，花了四年多
 <br><br>
 「我不習慣成功，這是個奇怪的感覺<sup>[10]</sup>。」Go語言爆發性的使用者成長，讓羅勃·派克的知名度與日俱增。這句話道出了內在的變化，從一個默默無聞跑龍套的角色，轉變成主導雲端未來語言的開創者。不遭人忌是庸才，就有過去的同行叫他「世界級蠢材」<sup>[11]</sup>。能批評他並且造成話題的人也不是省油的燈，對於作業系統和電腦語言有著深厚的功力<sup>[12]</sup>。批評的內容讓羅勃·派克在演講時特別從技術面解釋了一番<sup>[13]</sup>。面對情緒，技術的對錯事小，他們有相同的藝術連結事大。也許是這個潛意識，羅勃·派克在Twitter的自我介紹為「世界級蠢材的研究！羅勃」<sup>[14]</sup>。對長期在作業系統研究上默默耕耘並承受孤獨的同行們，表達出深刻的敬意。
 <br><br>
+Go語言和圍棋在英文是同一個字「Go」，這不完全是巧合<sup>[15]</sup>。羅勃·派克在演講中，流露出相當好的圍棋棋力。他仿照圍棋棋諺，把Go語言的重要觀念集結成「Go諺」<sup>[16]</sup>，讓工程師寫程序時能直覺的寫出好的結構。難怪在Go語言規格和標準程序庫中，處處可以看到不同層次的觀點、交換、取捨。若比較他2010年和2015年的演講，似乎少了憤世忌俗，多了柔和與自信。
+<br><br>
 
-###Go proverbs
 ###Renée French的藝術
 ##參考文獻
 1. [wiki - Rob Pike](https://en.wikipedia.org/wiki/Rob_Pike)
@@ -36,5 +37,7 @@ Go語言從2007年末開始構思，到2012年3月釋出1.0板，花了四年多
 12. [Fin – Keith Wesolowski retires](https://news.ycombinator.com/item?id=8816055)
 13. [GopherFest 2015: Rob Pike on the move from C to Go in the toolchain](https://www.youtube.com/watch?v=cF1zJYkBW4A#t=25m20s)
 14. [Twitter - Rob Pike](https://twitter.com/rob_pike)
+15. [Go Proverbs - Rob Pike - Gopherfest - November 18, 2015](https://www.youtube.com/watch?v=PAAkCSZUG1c#t=31s)
+16. [Simple, Poetic, Pithy](https://go-proverbs.github.io/)
 
 x. [GopherFest 2015: Rob Pike on the move from C to Go in the toolchain](https://www.youtube.com/watch?v=cF1zJYkBW4A#t=25m20s)
