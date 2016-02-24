@@ -25,6 +25,6 @@
 4. [Research at Google - Rob Pike](http://research.google.com/pubs/r.html)
 5. [Systems Software Research is Irrelevant](http://herpolhode.com/rob/utah2000.pdf)
 6. [Systems software research is still irrelevant](https://news.ycombinator.com/item?id=8651125)
-7. [Late Night with David Letterman](https://www.youtube.com/watch?v=z4iVAcYyWN0#t=3m5s)
+7. [Late Night with David Letterman - Rob Pike](https://www.youtube.com/watch?v=z4iVAcYyWN0#t=3m5s)
 
 x. [GopherFest 2015: Rob Pike on the move from C to Go in the toolchain](https://www.youtube.com/watch?v=cF1zJYkBW4A#t=25m20s)
