@@ -15,7 +15,6 @@
 在2010年的開源大會，羅勃·派克用了12分鐘攻擊了流行的電腦語言，並給予Go語言清楚的定位<sup>[8]</sup>。當時的電腦語言大致分為兩類，編譯語言（C++，Java）和解釋語言（Python，Ruby，JavaScript）。編譯語言經過長期的發展，語義和語法已過於複雜難懂，編譯時間也太長。解釋語言的語義和語法比較清楚，但即時執行的程序速度太慢。Go語言的定位就是要成為一個語義和語法簡潔的編譯語言，並支援可擴充的分散式架構。他當時呈現萬眾皆醉我獨醒的氣勢，被不少人看成狂犬吠日。畢竟太多新電腦語言最後都默默無聞或無疾而終。
 <br><br>
 
-###OSCON 2010: Rob Pike, "Public Static Void"
 ###Go at Google: Language Design in the Service of Software Engineering
 ###不遭人忌是庸才，World class jack-ass，video回應<sup>[1]</sup>
 ###Go proverbs
