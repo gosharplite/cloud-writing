@@ -10,6 +10,8 @@
 對於他在貝爾實驗室的主要工作「作業系統研發」，羅勃·派克在2000年2月寫了一篇抒發悲觀情緒的文章
 <sup>[5]</sup>。當時Linux系統靠著開源的成長模式，得到市場的喜愛。這對許多系統研究人員無疑的是很大的打擊，因為創新的系統架構無人問津。作業系統研發變得了無新意，經費也漸漸撤離。在那樣時空背景下，或許導致兩年後他離開工作了22年的貝爾實驗室。參考<sup>[6]</sup>。
 <br><br>
+羅勃·派克有個特殊的經驗。在1990年5月他站在搞笑藝人後面演一位呆頭呆腦的技師，登上了大衛·賴特曼的「深夜」節目<sup>[7]</sup>。這個節目是當時美國家喻戶曉的電視秀。從藝人興奮的口氣叫出「從貝爾實驗室來的羅勃·派克在這兒！」，很容易感受到美國人對貝爾實驗室天才們的崇拜。看著他晃頭晃腦的配合演出，不禁想到戲如人生。這位天才20多年的時間，是否跟這個角色做的類似。
+<br><br>
 ### Late Night With David Letterman
 ###OSCON 2010: Rob Pike, "Public Static Void"
 ###Go at Google: Language Design in the Service of Software Engineering
@@ -23,5 +25,6 @@
 4. [Research at Google - Rob Pike](http://research.google.com/pubs/r.html)
 5. [Systems Software Research is Irrelevant](http://herpolhode.com/rob/utah2000.pdf)
 6. [Systems software research is still irrelevant](https://news.ycombinator.com/item?id=8651125)
+7. [Late Night with David Letterman](https://www.youtube.com/watch?v=z4iVAcYyWN0#t=3m5s)
 
 x. [GopherFest 2015: Rob Pike on the move from C to Go in the toolchain](https://www.youtube.com/watch?v=cF1zJYkBW4A#t=25m20s)
