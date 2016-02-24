@@ -14,8 +14,9 @@
 <br><br>
 在2010年的開源大會，羅勃·派克用了12分鐘攻擊了流行的電腦語言，並給予Go語言清楚的定位<sup>[8]</sup>。當時的電腦語言大致分為兩類，編譯語言（C++，Java）和解釋語言（Python，Ruby，JavaScript）。編譯語言經過長期的發展，語義和語法已過於複雜難懂，編譯時間也太長。解釋語言的語義和語法比較清楚，但即時執行的程序速度太慢。Go語言的定位就是要成為一個語義和語法簡潔的編譯語言，並支援可擴充的分散式架構。他當時呈現萬眾皆醉我獨醒的氣勢，被不少人看成狂犬吠日。畢竟太多新語言最後都默默無聞或無疾而終。
 <br><br>
+Go語言從2007年末開始構思，到2012年3月釋出1.0板，花了四年多的時間。羅勃·派克在2012年底把一篇演講稿詳細的轉變成介紹文<sup>[9]</sup>，寫出背後的動機和歷史。Google面對前所未見的挑戰，多核電腦、網路系統、分散集群、上百萬行並且頻繁變動的程序碼，都是C++、Java、Python在設計之初沒有考慮的需求。加上動輒數小時的程序編譯時間，都讓工程師疲於奔命、痛苦不堪。Go語言在這個環境中應運而生，不談理論而注重有效率的解決真實的挑戰。了解這個背景，就不會驚訝許多大家慣用的電腦語言理論都被Go語言踢除。基本上任何會讓語義複雜，物件相依，編譯延長的語法都被取消。Go語言不是用來實現理論，而是要有效率的解決雲端系統的挑戰。
+<br><br>
 
-###Go at Google: Language Design in the Service of Software Engineering
 ###不遭人忌是庸才，World class jack-ass，video回應<sup>[1]</sup>
 ###Go proverbs
 ###Renée French的藝術
@@ -28,5 +29,6 @@
 6. [Systems software research is still irrelevant](https://news.ycombinator.com/item?id=8651125)
 7. [Late Night with David Letterman - Rob Pike](https://www.youtube.com/watch?v=z4iVAcYyWN0#t=3m5s)
 8. [OSCON 2010: Rob Pike, "Public Static Void"](https://www.youtube.com/watch?v=5kj5ApnhPAE)
+9. [Go at Google: Language Design in the Service of Software Engineering](http://talks.golang.org/2012/splash.article)
 
 x. [GopherFest 2015: Rob Pike on the move from C to Go in the toolchain](https://www.youtube.com/watch?v=cF1zJYkBW4A#t=25m20s)
