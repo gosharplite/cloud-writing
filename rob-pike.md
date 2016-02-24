@@ -6,7 +6,10 @@
 雲端技術使用大量的容器架構，來應付網路上千軍萬馬的使用者。目前處於領導地位的公司有三家，Docker、CoreOS、Google。他們開源出來的雲端項目，都不約而同的使用Go語言。從技術的角度來看，Go語言有許多特色。如精簡的語義表達、內建的多併發模式、明確的語法建構，等等。這些特色讓它特別適合用來開發雲端技術的後台功能。透過觀察羅勃·派克，我們可以從不同的角度來認識雲端技術。
 <br><br>
 從1980到2002年，羅勃·派克在貝爾實驗室的電腦研究中心開發Unix、Plan9、Inferno等作業系統。這個期間他讓Unix能用滑鼠（Blit），並且幫助網路世界使用不同的語言（UTF-8）。離開貝爾實驗室後他加入Google至今，研究分散式架構、數據挖掘、程式語言、協助工具。最近幾年則專注於領導Go語言的成長。參考<sup>[1][2][3][4]</sup>。
-###Systems Software Research is Irrelevant
+<br><br>
+對於他的主要工作「作業系統研發」，羅勃·派克在2000年2月寫了一篇抒發悲觀情緒的文章
+。<sup>[5]</sup> 當時Linux系統靠著開源的成長模式，得到市場的喜愛。這對許多系統研究人員無疑的是很大的打擊，因為創新的系統架構無人問津。作業系統研發變得了無新意，經費也漸漸撤離。在那樣時空背景下，或許成為兩年後他離開貝爾實驗室的因素。參考<sup>[6]</sup>
+<br><br>
 ### Late Night With David Letterman
 ###OSCON 2010: Rob Pike, "Public Static Void"
 ###Go at Google: Language Design in the Service of Software Engineering
@@ -18,5 +21,7 @@
 2. [herpolhode.com - Rob Pike](http://herpolhode.com/rob/)
 3. [usesthis.com - Rob Pike](https://usesthis.com/interviews/rob.pike/)
 4. [Research at Google - Rob Pike](http://research.google.com/pubs/r.html)
+5. [Systems Software Research is Irrelevant](http://herpolhode.com/rob/utah2000.pdf)
+6. [Systems software research is still irrelevant](https://news.ycombinator.com/item?id=8651125)
 
 x. [GopherFest 2015: Rob Pike on the move from C to Go in the toolchain](https://www.youtube.com/watch?v=cF1zJYkBW4A#t=25m20s)
