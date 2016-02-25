@@ -20,8 +20,7 @@ Go語言從2007年末開始構思，到2012年3月釋出1.0板，花了四年多
 <br><br>
 Go語言和圍棋在英文是同一個字「Go」，這不完全是巧合<sup>[15]</sup>。羅勃·派克在演講中，流露出相當好的圍棋棋力。他仿照圍棋棋諺，把Go語言的重要觀念集結成「Go諺」<sup>[16]</sup>，讓工程師寫程序時能直覺的寫出好的結構。難怪在Go語言規格和標準程序庫中，處處可以看到不同層次的觀點、交換、取捨。若比較他2010年和2015年的演講，似乎少了憤世忌俗，多了柔和與自信。
 <br><br>
-
-###Renée French的藝術
+Go語言的吉祥物是一隻地鼠<sup>[16]</sup>，由羅勃·派克的妻子蕾妮·法蘭司<sup>[17]</sup>繪出。蕾妮·法蘭司是一位知名的繪圖小說家，作品挑戰想像力，鉛筆畫風細膩。有人描述她揉合可愛和噁心的元素有獨到的心得。對繪圖藝術敏銳的人，可嘗試透過欣賞蕾妮的創作，感受這對夫妻的內在世界。Plan9作業系統<sup>[18]</sup>的吉祥物是一隻兔子，也出自蕾妮之手。Go語言如日中天，Plan9很有希望成為第一個連底層都是用Go語言寫出的作業系統。
 ##參考文獻
 1. [wiki - Rob Pike](https://en.wikipedia.org/wiki/Rob_Pike)
 2. [herpolhode.com - Rob Pike](http://herpolhode.com/rob/)
@@ -39,5 +38,6 @@ Go語言和圍棋在英文是同一個字「Go」，這不完全是巧合<sup>[1
 14. [Twitter - Rob Pike](https://twitter.com/rob_pike)
 15. [Go Proverbs - Rob Pike - Gopherfest - November 18, 2015](https://www.youtube.com/watch?v=PAAkCSZUG1c#t=31s)
 16. [Simple, Poetic, Pithy](https://go-proverbs.github.io/)
-
-x. [GopherFest 2015: Rob Pike on the move from C to Go in the toolchain](https://www.youtube.com/watch?v=cF1zJYkBW4A#t=25m20s)
+16. [The Go Gopher](https://blog.golang.org/gopher)
+17. [wiki - Renée French](https://en.wikipedia.org/wiki/Ren%C3%A9e_French)
+18. [wiki - Plan 9 from Bell Labs](https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs)
