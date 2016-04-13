@@ -9,13 +9,13 @@
 <br><br>
 若参考这两届大会演讲主题，有「实践」两个字最重要。「卓易Docker＋Kubernetes＋CoreOS平台的实践考量」是可以考虑的主题。
 ##參考文獻
-[1] [Docker入门实战](http://dockone.io/article/233)
-[2] [为什么拼死也要做这场容器大会？](http://dockone.io/question/656)
-[3] [北京大会报名中](http://dockone.io/article/816)
-[4] [北京@Container容器技术大会](http://beijing2016.atcontainer.com/)
-[5] [北京大会顺利闭幕](http://dockone.io/article/983)
-[6] [北京大会視頻](http://dockone.io/article/1001)
-[7] [北京大会PPT](http://vdisk.weibo.com/s/Fkad7p8ogIGA3)
-[8] [上海@Container容器技术大会](http://atcontainer.com/)
-[9] [上海大会主题一览](http://dockone.io/article/1144)
-[10] [CNUTCon全球容器技术大会](http://cnutcon.com/)
+1. [Docker入门实战](http://dockone.io/article/233)
+2. [为什么拼死也要做这场容器大会？](http://dockone.io/question/656)
+3. [北京大会报名中](http://dockone.io/article/816)
+4. [北京@Container容器技术大会](http://beijing2016.atcontainer.com/)
+5. [北京大会顺利闭幕](http://dockone.io/article/983)
+6. [北京大会視頻](http://dockone.io/article/1001)
+7. [北京大会PPT](http://vdisk.weibo.com/s/Fkad7p8ogIGA3)
+8. [上海@Container容器技术大会](http://atcontainer.com/)
+9. [上海大会主题一览](http://dockone.io/article/1144)
+10. [CNUTCon全球容器技术大会](http://cnutcon.com/)
