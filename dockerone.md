@@ -1,4 +1,4 @@
-#DockerOne 背景资料
+# DockerOne 背景资料
 作者：徐德平，上海卓易科技台北研究院，2016年4月
 <hr>
 2014年10月DockerOne由发起人李颖杰（liyingjie@dockerone.com）成立。建站时他说：我们要做最专业的Docker交流平台。由于Docker开源软件能让他热血沸腾，他集结了一帮志同道合的人五个月翻译了200多篇文章<sup>[1]</sup>。
